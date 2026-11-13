@@ -4,6 +4,12 @@ A fast, lightweight Markdown viewer for macOS.
 
 KV-MD opens `.md` files instantly and renders them beautifully — without the weight of an editor, an Electron runtime or a notes database. Double-click a file in Finder and read.
 
+![KV-MD with the table of contents open](images/light.png)
+
+| Syntax highlighting | Dark mode |
+|---|---|
+| ![Code blocks and tables](images/code.png) | ![GitHub alerts in dark mode](images/dark.png) |
+
 ## Features
 
 - **Instant** — Markdown is parsed natively by GitHub's `cmark-gfm` in milliseconds and shown in a pre-warmed view. Even multi-megabyte files paint their first screen in ~100 ms.
